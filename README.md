@@ -1,8 +1,3 @@
-Claro, aquí tienes un borrador completo y bien estructurado de un `README.md` para tu proyecto. Puedes adaptarlo según lo que quieras resaltar o personalizar:
-
----
-
-````markdown
 # 🎚️ Analizador de Señales de Audio con Filtros Digitales
 
 Esta es una aplicación interactiva escrita en Python que permite visualizar y analizar señales de audio (impulsos o archivos WAV) mediante transformaciones como ganancia, polaridad, filtros digitales y delay. Se muestran en tiempo real las respuestas en frecuencia (magnitud y fase) de las señales individuales y su combinación.
